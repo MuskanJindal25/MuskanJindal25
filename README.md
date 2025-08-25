@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm a Master's student in Artificial Intelligence at Boston University
+- 🔭 I'm a Master's in Artificial Intelligence graduate from Boston University
 - 🌱 I’m currently working on projects related to Generative AI and Full stack development
 - 💬 My Pronouns are she/her
 
